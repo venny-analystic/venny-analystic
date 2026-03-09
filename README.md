@@ -1,16 +1,30 @@
 ## Hi there 👋
 
-<!--
-**venny-analystic/venny-analystic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Venny Amilia Deslaweny
 
-Here are some ideas to get you started:
+Data Analyst | SQL | Python | Tableau | Business Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This portfolio showcases end-to-end data analytics projects including:
+
+- Marketing Analytics
+- Customer Segmentation
+- Business Performance Analysis
+- Predictive Modeling
+- Retail Sales Analysis
+- Customer Behavior Analysis
+- Financial Data Visualization
+- Healthcare Analytics
+
+## Featured Projects
+
+- Revobank Customer Segmentation (Python)
+- Tokobli Campaign Analysis (Marketing Analytics)
+- Revoshion Sales Analysis (Business Performance)
+- RevoGrocers Sales Performance Analysis (SQL Analytics)
+- RevoFinance Financial Performance Dashboard (Tableau)
+- Customer Churn Analysis (Python & Tableau)
+- Hospital Operational Efficiency & Patient Experience Analysis (Spreadsheet Tabel Pivot & Tableau)
+
+## Tools
+
+SQL | Python | Pandas | NumPy | Tableau | Spreadsheet | Data Visualization | Machine Learning
