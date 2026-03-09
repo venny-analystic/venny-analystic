@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# Venny Amilia Deslaweny
+## Hi I'm Venny Amilia Deslaweny 👋
 
 Data Analyst | SQL | Python | Tableau | Business Analytics
 
