@@ -45,7 +45,7 @@ Currently, I am leveraging my deep financial expertise with modern data analytic
 
 ---
 
-## 🛠️ Technical Toolkit
+## 🛠️ Technical Toolkit & Skills
 * **Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL (BigQuery, PostgreSQL).
 * **Tools:** Tableau, Google Looker Studio, Spreadsheet (Advanced).
 * **Expertise:** Budgeting (APBN), Financial Reporting, Data Visualization, EDA.
