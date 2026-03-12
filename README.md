@@ -10,9 +10,9 @@ Currently, I am leveraging my deep financial expertise with modern data analytic
 
 ## 💼 Professional Experience
 **Financial Management Analyst & Expenditure Treasurer** | *Regional Office of Ministry of Religious Affairs* (2023 - Present)
-* Managed dual-role responsibilities across 3 work units, overseeing the full budget lifecycle from digital disbursement to fiscal accountability.
-* Utilized **SAKTI (Full Web Module), Coretax, CMS, and BSrE** to streamline disbursement and tax administration.
-* Consolidated a **multi-unit budget of IDR 14 Billion**, delivering accurate financial statements with perfect reconciliation status.
+* Managed the full budget lifecycle for three work units totaling IDR 14 billion using SAKTI (Full Web Module) and CMS, ensuring compliant digital disbursement and financial accountability while supporting more efficient budget monitoring and reporting processes.
+* Automated tax administration and financial reconciliation processes using Coretax and BSrE e-signature, enabling faster verification and more accurate monthly financial accountability reports.
+* Consolidated multi-unit budgets through the SAKTI system, achieving fully reconciled financial statements across work units and ensuring timely submission to the State Treasury with no major discrepancies.
 
 ---
 
@@ -49,6 +49,7 @@ Currently, I am leveraging my deep financial expertise with modern data analytic
 * **Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL (BigQuery, PostgreSQL).
 * **Tools:** Tableau, Google Looker Studio, Spreadsheet (Advanced).
 * **Expertise:** Budgeting (APBN), Financial Reporting, Data Visualization, EDA.
+* **Soft Skills:** Analytical Thinking, Attention to Detail, Problem Solving, Data Interpretation, Stakeholder Coordination, Communication Skills, Time Management.
 
 ---
 
