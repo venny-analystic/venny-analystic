@@ -19,7 +19,7 @@ Currently, I am leveraging my deep financial expertise with modern data analytic
 ## 🎓 Education & Certifications
 * **Master of Economics and Business (M.Si)** | *University of Bengkulu* (Development Planning)
 * **Full-Stack Data Analytics** | *RevoU* (2025 - 2026)
-* **Certified Data Analyst** | *BNSP*
+* **Certified Data Analyst** | *BNSP* (2026)
 
 ---
 
@@ -41,7 +41,7 @@ Currently, I am leveraging my deep financial expertise with modern data analytic
 * **Background:** Created a tracking system to monitor real-time spending habits and ensure budget compliance.
 * **Method:** Processed 1,000+ transactions using **Python (Pandas)** and designed a comprehensive financial overview in **Tableau**.
 * **Result:** Mapped IDR 508M in total expenses, identifying top merchants and spending categories to enable better personal fiscal discipline.
-* [🔗 View Repository](https://github.com/venny-analystic/revofinance-personal-finance-dashboard | [📊 Tableau Dashboard](https://public.tableau.com/app/profile/venny.deslaweny/viz/W11ML2/Dashboard2)
+* [🔗 View Repository](https://github.com/venny-analystic/revofinance-personal-finance-dashboard) | [📊 Tableau Dashboard](https://public.tableau.com/app/profile/venny.deslaweny/viz/W11ML2/Dashboard2)
 
 ---
 
