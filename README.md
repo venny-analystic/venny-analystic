@@ -34,7 +34,7 @@ Currently, I am leveraging my deep financial expertise with modern data analytic
 ### 🏥 Hospital Operational Efficiency & Patient Experience
 
 <p align="center">
-  <img src="images/hospital-dashboard.png" width="700">
+  <img src="images/Hospital-Patient-Experience-Analytics-Dashboard.png" width="700">
 </p>
 
 **Tools:** SQL | Spreadsheet | Tableau  
