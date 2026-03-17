@@ -31,6 +31,21 @@ Currently, I am leveraging my deep financial expertise with modern data analytic
 * **Result:** Identified peak admission hours (10 AM & 10 PM) and unit-specific satisfaction gaps, providing data-backed recommendations for optimized staff shifting.
 * [🔗 View Repository](https://github.com/venny-analystic/Hospital-Patient-Experience-Analytics) | [📊 Tableau Dashboard](https://public.tableau.com/app/profile/venny.deslaweny/viz/Book1_17717196553990/Dashboard2)
 
+### 🏥 Hospital Operational Efficiency & Patient Experience
+
+<p align="center">
+  <img src="images/hospital-dashboard.png" width="700">
+</p>
+
+**Tools:** SQL | Spreadsheet | Tableau  
+
+**Goal:** Identify operational bottlenecks by analyzing patient waiting times and satisfaction scores.
+
+**Key Insight:**  
+Peak admission hours occur at **10 AM and 10 PM**, indicating staffing optimization opportunities.
+
+🔗 Repository | 📊 Tableau Dashboard
+
 ### 2. 📉 Customer Churn Analysis (Horizon Bank)
 * **Background:** Investigated a 20.4% churn rate among 10,000 bank customers to identify high-risk segments.
 * **Method:** Analyzed customer demographics (age, credit score, product usage) using **SQL** and built an interactive retention dashboard.
